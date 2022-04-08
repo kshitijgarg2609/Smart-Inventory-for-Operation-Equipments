@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ run()
+comment1.params=sa\ s
+comment1.target=void\ sendUdpReply(java.net.SocketAddress,\ java.lang.String)
+comment2.params=sa\ s
+comment2.target=void\ sendUdpReply(java.net.SocketAddress,\ byte[])
+comment3.params=
+comment3.target=UdpServerHandle()
+comment4.params=
+comment4.target=void\ addFunctionality()
+numComments=5

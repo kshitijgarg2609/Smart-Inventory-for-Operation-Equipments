@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TraySimulatorApplication()
+comment1.params=
+comment1.target=void\ addComponents()
+comment2.params=
+comment2.target=void\ addIndicator()
+comment3.params=
+comment3.target=void\ connectIndicator()
+comment4.params=
+comment4.target=void\ disconnectIndicator()
+comment5.params=i\ f
+comment5.target=void\ indicate(int,\ char)
+comment6.params=i\ f
+comment6.target=void\ indicate(int,\ boolean)
+comment7.params=a
+comment7.target=void\ updateCount(int)
+numComments=8

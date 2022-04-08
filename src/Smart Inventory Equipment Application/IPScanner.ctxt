@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.util.Set\ retrieveAllBroadcastIp()
+comment1.params=a
+comment1.target=java.lang.String\ getIpAsString(java.net.InetAddress)
+numComments=2

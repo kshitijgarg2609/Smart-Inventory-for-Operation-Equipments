@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ run()
+comment1.params=
+comment1.target=DeviceScanner()
+comment2.params=dcmd\ port\ timeout\ repeat
+comment2.target=java.util.Set\ scanDevice(java.lang.String,\ int,\ int,\ int)
+numComments=3
